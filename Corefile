@@ -1,0 +1,6 @@
+.:53 {
+        errors
+        log
+        file hosts.db internal.
+}
+
